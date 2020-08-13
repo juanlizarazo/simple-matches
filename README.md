@@ -1,5 +1,7 @@
 # simple-matches
 
+Tested with node 10+
+
 # To run tests
 
 - run `yarn` or `npm install` to install dev dependencies
